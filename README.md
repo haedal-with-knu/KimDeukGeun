@@ -23,6 +23,6 @@
 * #### [설기관](https://www.youtube.com/channel/UCMA7GmwOUuvSlM4XUhN2JFA) 보디빌더가 알려주는 운동꿀팁
 <hr/>
 
-## 
+## 운동합시다
 ## [WeightTraning](https://github.com/Kim-Jiwan/KimDeukGeun/blob/master/WeightTraining/WeightTraining.md)
 ## [Running]()
