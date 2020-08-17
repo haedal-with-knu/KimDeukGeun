@@ -26,4 +26,4 @@
 <hr/>
 
 ## [WeightTraning](https://github.com/Kim-Jiwan/KimDeukGeun/blob/master/WeightTraining/WeightTraining.md)
-## [Runnig]()
+## [Running]()
