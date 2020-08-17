@@ -23,5 +23,7 @@
 * [양선수의 온라인PT](https://www.youtube.com/c/yangcoach/about)
 탈유튜브 퀄리티로 운동알려주는 채널 개인적으로 매우 추천합니다!!!!
 * 
+<hr/>
 
-## 
+## [WeightTraning](https://github.com/Kim-Jiwan/KimDeukGeun/blob/master/WeightTraining/WeightTraining.md)
+## [Runnig]()
