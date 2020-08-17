@@ -13,8 +13,12 @@
 * 
 <hr/>
 
-## 유용한 운동유튜브채널
+## 유용한 운동 유튜브채널
 * [피지컬갤러리](https://www.youtube.com/channel/UCdtRAcd3L_UpV4tMXCw63NQ)
 체형교정과 재활 정보를 알려주는 빡빡이 아조씨를 볼 수 있는 채널
-* []()
-*
+* [동면중](https://www.youtube.com/c/%EB%8F%99%EB%A9%B4%EC%A4%911989/about)
+스포츠 영양사가 식단, 체중관리 꿀팁 알려주는 채널
+    * [식단관리도우미]()
+    * [식단관리도우미_여성용]()
+* [양선수의 온라인PT](https://www.youtube.com/c/yangcoach/about)
+탈유튜브 퀄리티로 운동알려주는 채널 개인적으로 매우 추천합니다!!!!
