@@ -15,7 +15,7 @@
 
 ## 유용한 운동 유튜브채널
 * #### [피지컬갤러리](https://www.youtube.com/channel/UCdtRAcd3L_UpV4tMXCw63NQ) 빡빡이 아저씨가알려주는 체형교정과 재활 정보
-    * #### 운동을 안한지 오래되셨다면 체형이 틀어졌을 확률이 높습니다. 체형 바로잡고 갑시다!
+    > #### 운동을 안한지 오래되셨다면 체형이 틀어졌을 확률이 높습니다. 체형 바로잡고 갑시다!
 * #### [동면중](https://www.youtube.com/c/%EB%8F%99%EB%A9%B4%EC%A4%911989/about) 스포츠 영양사가 알려주는 식단, 체중관리
     * #### [식단관리도우미](https://github.com/Kim-Jiwan/KimDeukGeun/tree/master/%EC%9D%B4%EA%B1%B0%20%EB%88%84%EB%A5%B4%EB%A9%B4%20%EC%82%B4%EB%B9%A0%EC%A7%90)
     * #### [식단관리도우미_여성용](https://github.com/Kim-Jiwan/KimDeukGeun/tree/master/%EC%9D%B4%EA%B1%B0%20%EB%88%84%EB%A5%B4%EB%A9%B4%20%EC%82%B4%EB%B9%A0%EC%A7%90)
