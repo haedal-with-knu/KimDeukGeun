@@ -25,4 +25,4 @@
 
 ## 운동합시다
 ## [WeightTraning](https://github.com/Kim-Jiwan/KimDeukGeun/blob/master/WeightTraining/WeightTraining.md)
-## [Running]()
+## [Running](https://github.com/Kim-Jiwan/KimDeukGeun/blob/master/Running/Running.md)

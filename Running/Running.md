@@ -1,4 +1,4 @@
 # 200821 신천
-![](/Running/photo/200821_신천_1.jpg)
-![](/Running/photo/200821_신천_2.jpg)
+![](/Running/photo/200820_신천_1.jpg)
+![](/Running/photo/200820_신천_2.jpg)
 #### 이준병님과 신천달리기!!(경대교-칠성시장 왕복)
