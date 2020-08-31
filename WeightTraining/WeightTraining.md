@@ -4,3 +4,6 @@
 # 200819 맥시멈짐
 ![](/WeightTraining/photo/200819_맥시멈짐.jpg)
 #### 소모임장의 뒤태..ㅗㅜㅑ
+# 200824 맥시멈짐
+![](/WeightTraining/photo/200824_맥시멈짐.jpg)
+#### 장민영님과 BACK WORKOUT
